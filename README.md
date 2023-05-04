@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sebastianschol2" target="blank"><img src="https://img.shields.io/twitter/follow/sebastianschol2?logo=twitter&style=for-the-badge" alt="sebastianschol2" /></a> </p>
 
-- 🔭 I’m currently working on [SW-Creative](https://sw-creative.de/)
+- 🔭 I’m currently working on [SW IT-Solutions](https://sw-it-solutions.de/)
 
-- 📝 I regularly write articles on [https://www.sw-creative.de/news](https://www.sw-creative.de/news)
-
-- 📫 How to reach me **sebastian@sw-creative.de**
+- 📫 How to reach me **contact@sw-it-solutions.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
